@@ -1,0 +1,2 @@
+MQTT_BRIDGE_PORT = 8883
+MQTT_BRIDGE_HOSTNAME = "mqtt.googleapis.com"
