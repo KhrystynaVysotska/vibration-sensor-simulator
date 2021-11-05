@@ -1,0 +1,5 @@
+cffi==1.15.0
+cryptography==35.0.0
+paho-mqtt==1.6.1
+pycparser==2.20
+PyJWT==2.3.0
